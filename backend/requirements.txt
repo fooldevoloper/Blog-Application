@@ -1,0 +1,4 @@
+Django>=4.2,<5.0
+pyjwt>=2.8.0
+python-decouple>=3.8
+django-cors-headers>=4.3.0
